@@ -1,0 +1,177 @@
+    1  ls
+    2  cd ..
+    3  cd ..
+    4  ls
+    5  cd taller git
+    6  clear
+    7  cd taller-git
+    8  cd login
+    9  git init
+   10  git status
+   11  git add ,
+   12  git add .
+   13  git commit -m "arrays"
+   14  git branch -M main
+   15  git remote add origin https://github.com/Lefty-Gabriel/arrays.git
+   16  [200~echo "# arrays" >> README.md
+   17  git push -u origin main
+   18  git status
+   19  git commit -m "redme"
+   20  git status
+   21  git add README.md
+   22  git status
+   23  clear
+   24  git commit -m "cambio"
+   25  git branch -M main
+   26  git remote add origin https://github.com/Lefty-Gabriel/arrays.git
+   27  git remote add origin https://github.com/Lefty-Gabriel/arrays.git
+   28  cls
+   29  cls
+   30  clear
+   31  dir
+   32  git status
+   33  git add .
+   34  git commit -m "donee"
+   35  git push
+   36  git pull
+   37  git status
+   38  [200~echo "# Portafolio" >> README.md
+   39  git push -u origin main
+   40  git init
+   41  git add README.md
+   42  git commit -m "first commit"
+   43  git branch -M main
+   44  git remote add origin https://github.com/Lefty-Gabriel/Portafolio.git
+   45  git push -u origin main
+   46  git status
+   47  git commit -m done
+   48  git add 
+   49  git add .
+   50  git add ,
+   51  git add.
+   52  git commit -m done 1
+   53  clear
+   54  git status
+   55  git add .
+   56  git commit -m done2
+   57  git commit -m "done2"
+   58  git push
+   59  git init
+   60  git status
+   61  git add .
+   62  git commit -m "tipografia"
+   63  git branch -M main
+   64  $ git remote add origin https://github.com/Lefty-Gabriel/Piensa.git
+   65  git remote add origin https://github.com/Lefty-Gabriel/Piensa.git
+   66  git init
+   67  git status
+   68  git add pantallacorrecto
+   69  git add .
+   70   git commit -m "pantalla correcto"
+   71  git branch -M main
+   72  git remote add origin https://github.com/Lefty-Gabriel/Piensa.git
+   73  git push -u origin main
+   74  [200~git remote add origin https://github.com/Lefty-Gabriel/1.git~
+   75  git init
+   76  git commit -m "supletorio"
+   77  git add
+   78  git remote add origin https://github.com/Lefty-Gabriel/1.git
+   79  git remote add origin https://github.com/Lefty-Gabriel/1.git
+   80  git init
+   81  git add .
+   82  git commit -m "supletorio"
+   83  git branch -M main
+   84  git remote add origin https://github.com/Lefty-Gabriel/1.git
+   85  ~git init
+   86  git init
+   87  git remote add origin https://github.com/Lefty-Gabriel/1.git
+   88  git push -u origin main
+   89  dir
+   90  cd C:\Users\azule\OneDrive\Desktop\moviles\sem1\MiPrimeraApp
+   91  cd C:\Users\azule\OneDrive\Desktop\moviles\sem1\MiPrimeraApp
+   92  cd ..
+   93  cd\moviles\sem2\trabajo_autonomo~
+   94  cd moviles\sem2\trabajo_autonomo~
+   95  tree
+   96  cd c
+   97  cd ..
+   98  cd moviles\sem2\trabajo_autonomo~
+   99  cd moviles\sem2\trabajo_autonomo~
+  100  cd\moviles\sem2\trabajo_autonomo~
+  101  docker run -p 6379:6379 --name redis-server redis
+  102  git init
+  103  git add .
+  104  git commit -m "commit"
+  105  git remote add origin https://github.com/Lefty-Gabriel/universidadHerramientas.git
+  106  git push origin master
+  107  git branch -m main
+  108  git push -u origin main
+  109  git remote add origin https://github.com/Lefty-Gabriel/universidadHerramientas.git
+  110  git init
+  111  git add .
+  112  git commit -m "commit"
+  113  git branch -M main
+  114  git remote https://github.com/Lefty-Gabriel/universidadHerramientas.git
+  115  git remote add origin https://github.com/Lefty-Gabriel/universidadHerramientas.git
+  116  git push -u origin main
+  117  git pull origin main  --rebase
+  118  git push -u origin main
+  119  git init
+  120  git add .
+  121  git commit -m "commit"
+  122  git remote add origin https://github.com/Lefty-Gabriel/universidadHerramientas.git
+  123  git push origin master
+  124  sqlplus / as sysdba
+  125  SQL> select name, open_mode from v$database;
+  126  ls
+  127  cd
+  128  pwd
+  129  cd ..
+  130  pwd
+  131  cd azule
+  132  pwd
+  133  cd desktop
+  134  pwd
+  135  pwd
+  136  pwd
+  137  clear
+  138  clear
+  139  pwd
+  140  cd desktop
+  141  mkdir "proyecto_comandos"
+  142  pwd
+  143  ls
+  144  cd proyecto_comandos
+  145  pwd
+  146  mkdir documentos imagenes scripts
+  147  ls
+  148  cd documentos
+  149  touch notas.txt
+  150  ls
+  151  echo 'linea 1' > notas.txt
+  152  echo 'linea 2' >> notas.txt
+  153  echo 'linea 3' >> notas.txt
+  154  cp notas.txt backup_notas.txt
+  155  ls
+  156  mv backup_notas.txt ~/desktop/proyecto_comandos/scripts
+  157  mv backup_notas.txt ~/desktop/proyecto_comandos/imagenes
+  158  cd ..
+  159  cd scripts
+  160  mv backup_notas.txt ~/desktop/proyecto_comandos/imagenes
+  161  cd ..
+  162  cd documentos
+  163  touch resumen.txt
+  164  cat notas.txt > resumen.txt
+  165  cat resumen.txt
+  166  echo 'linea 4' >> resumen.txt
+  167  cd ..
+  168  cd imagenes
+  169  rm backup_notas.txt
+  170  rm -r imagenes
+  171  cd ..
+  172  rm -r imagenes
+  173  pwd
+  174  ls
+  175  touch tarea-s1-Gabriel_Campoverde.txt
+  176  ls
+  177  history > tarea-s1-Gabriel_Campoverde.txt
