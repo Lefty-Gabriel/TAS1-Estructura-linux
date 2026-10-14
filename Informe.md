@@ -14,12 +14,14 @@ Linux es un sistema operativo que permite administrar los recursos de un computa
 En Linux, el sistema de archivos se organiza de forma jerárquica, mediante directorios y que permiten almacenar la información de manera ordenada. Para trabajar con esta estructura, existen comandos básicos que facilitan la creación, copia, movimiento y eliminación de archivos según la linea de comando digitada.
 
 El comando mkdir permite crear directorios, mientras que rmdir se utiliza para eliminar directorios vacíos. Por otra lado, touch permite crear archivos vacíos y ls muestra el contenido de un directorio. También se utiliza cd para cambiar de ubicación dentro del sistema de archivos y pwd para conocer la ruta del directorio actual.
+
 <img width="390" height="227" alt="image" src="https://github.com/user-attachments/assets/3910d7a8-abaf-4a6a-ac6f-41d3275242a1" />
 
 
 Para manipular archivos, el comando cp permite realizar copias, mientras que mv sirve para moverlos o cambiar sus nombres. El comando rm permite eliminar archivos, por lo que debe utilizarse con precaución, ya que normalmente no los envía a una papelera de reciclaje.
 
 Asimismo, los comandos echo y cat son útiles para trabajar con archivos de texto. echo permite mostrar mensajes y escribir contenido mediante operadores de redirección. El operador > escribe contenido y sobrescribe el archivo si ya existe, mientras que >> agrega información al final sin eliminar el contenido anterior. Por su parte, cat permite visualizar el contenido de los archivos y redirigirlo hacia otros.
+
 <img width="285" height="117" alt="image" src="https://github.com/user-attachments/assets/da569852-c268-4b39-9bbf-11d05969a60d" />
 
 
