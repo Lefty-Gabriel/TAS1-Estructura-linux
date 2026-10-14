@@ -2,7 +2,7 @@
 
 ## 1. Título
 
-**Creación y Manipulación de Archivos y Directorios con Comandos de Linux**
+**Creación de archivos y directorios con Comandos dentro de la terminal de linux**
 
 ## 2. Tiempo de duración
 
